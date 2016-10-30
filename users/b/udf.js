@@ -1,6 +1,6 @@
-/*
+/*  test add******************
  * This file is provided for custom JavaScript logic that your HTML files might need.
- * Maqetta includes this JavaScript file by default within HTML pages authored in Maqetta.
+ * Mbase************* includes this JavaScript file by default within HTML pages authored in Maqetta.
  */
 //// User defined Function
 
